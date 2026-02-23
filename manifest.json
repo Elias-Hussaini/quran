@@ -2,7 +2,7 @@
   "name": "Quran Master Pro",
   "short_name": "Quran Master",
   "description": "پیشرفته‌ترین اپلیکیشن هوشمند حفظ قرآن با تمرین صوتی، آزمون چهارگزینه‌ای و تحلیل پیشرفت",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f2a3f",
@@ -47,4 +47,5 @@
       "purpose": "any maskable"
     }
   ]
+
 }
